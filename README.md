@@ -1,0 +1,5 @@
+Accurately predicting bike demand is a critical challenge for bike rental companies, as it enables them to optimize inventory and pricing strategies. In this project, I aim to develop a **supervised machine learning regression model** to forecast bike rental demand for specific time periods.
+
+The dataset used for this project originates from a bike-sharing company and includes detailed information on bike rentals, such as the number of bikes rented, the rental time and date, and various weather and seasonality features. Additionally, the dataset contains information on other relevant factors that could impact bike demand, including holidays and whether the day is a functioning or non-functioning day.
+
+After cleaning and preprocessing the data, I split it into training and test sets. The training data was used to train multiple machine learning models. I experimented with various model architectures and hyperparameter settings, ultimately selecting the model that demonstrated the best performance on the test data.
